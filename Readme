@@ -13,8 +13,7 @@ the project file in VB.Net to avoid errors failing which only a blank form would
 
 Mobitelephone is a mobile store management system software.The main objective of developing this software was to give a
 complete package to small organizations at a cost effective price which will allow them to keep track of their sales and inventory
-and provide a computerized billing system which eliminates the ledger based and manual written bills.This software was created
-by using vb.net as front-end and sql as back-end.
+and provide a computerized billing system which eliminates the ledger based and manual written bills.
 
 There are different modules in this software:-
 ---Login---
